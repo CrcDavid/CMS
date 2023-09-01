@@ -106,10 +106,10 @@ coverage
 ############################
 
 # .env
-license.txt
-exports
-*.cache
-dist
-build
+# license.txt
+# exports
+# *.cache
+# dist
+# build
 # .strapi-updater.json
 node_modules
