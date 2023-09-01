@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/49872a8e-912e-4512-b154-153da52a3295/resourceGroups/mindit.io/providers/Microsoft.Web/sites/mindit-cms",
+    "appService.deploySubpath": "."
+}
